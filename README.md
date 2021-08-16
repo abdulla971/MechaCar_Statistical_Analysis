@@ -106,3 +106,9 @@ Metric to Measure
 
 Thinking with a consumer mindset, the city and highway fuel efficiency is of high interest. The companies in competition are pushing to bring diesel like fuel efficiency to gasoline engines. To have a chance MechaCar is going to have to join in the competition to improve the fuel efficiency. To determine how MechaCar performs against competition, we can determine if a correlation exists between the type of automatic transmission and fuel efficiency. 
 
+Hypothesis
+
+    * Null Hypothesis: The mean of fuel efficiencies for the different types of automatic transmission is the same across all types. 
+
+    * Alternative Hypothesis: The mean of fuel efficiencies for the different types of automatic transmission is not the same across all types. 
+
