@@ -35,3 +35,15 @@ The questions answers are:
 2. The slope of the linear module is not zero, this is due to the fact that some independent variables had a significant effect on the dependent variable. If the case is different and none of the independent variables had an effect then the slope would be zero for the linear regression.
 
 3. The most important indicator to check if the linear model predicts the mpg is the r-squared value. In our case it is at 0.7149 mean that out of 100 instances, therefore this means that the model will have correct prediction 71 times; which means that the model is considered effective.
+
+Here are the summary results from the linear regression.
+
+### Miles Per Gallon Linear Regression
+
+![mpg_linear_regression](https://github.com/Wall-E28/mecha_car_statistical_analysis/blob/main/visualizations/mpg_linear_regression.png)
+
+## Summary Statistics on Suspension Coils
+
+
+After loading the suspension coils dataset; the data was comprised of 150 different vehicles ID, 3 different lot numbers, and corresponding PSI levels for each vehicle. I created two summary tables to determine the mean, median, variance, and standard deviation of the data. The first table was the general data, while the second table covered the specific three lots. These are the two tables:
+
