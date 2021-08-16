@@ -101,3 +101,8 @@ Here is a breakdown of each of the four tests:
 A statistical study to compare performance of the MechaCar vehicles against performance of vehicles from other manufacturers.
 
 ### Study Design: MechaCar vs Competition
+
+Metric to Measure
+
+Thinking with a consumer mindset, the city and highway fuel efficiency is of high interest. The companies in competition are pushing to bring diesel like fuel efficiency to gasoline engines. To have a chance MechaCar is going to have to join in the competition to improve the fuel efficiency. To determine how MechaCar performs against competition, we can determine if a correlation exists between the type of automatic transmission and fuel efficiency. 
+
