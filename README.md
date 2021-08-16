@@ -27,3 +27,11 @@ After loading the miles per gallon dataset, multiple linear regression linear re
 1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 2. Is the slope of the linear model considered to be zero? Why or why not?
 3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+
+The questions answers are:
+
+1. Two variables gave a non-random amount of variance; the vehicle length and the ground_clearance. They both got small p-value which means they had a high level of significance. The other observation is that the the intercept also had a high significance which means we must examine other factors that might contribute to the variance in mpg.
+
+2. The slope of the linear module is not zero, this is due to the fact that some independent variables had a significant effect on the dependent variable. If the case is different and none of the independent variables had an effect then the slope would be zero for the linear regression.
+
+3. The most important indicator to check if the linear model predicts the mpg is the r-squared value. In our case it is at 0.7149 mean that out of 100 instances, therefore this means that the model will have correct prediction 71 times; which means that the model is considered effective.
