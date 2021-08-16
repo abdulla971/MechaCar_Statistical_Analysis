@@ -116,3 +116,8 @@ Statistical Test
 
 A one-way ANOVA is used to test the means of a single continuous dependent variable across a single independent variable with multiple groups, similar to categorical data. In this analysis our independent variable is the type of automatic transmission, which is categorical data type and our dependent variable is fuel efficiency, which is a numerical and continuous data type.
 
+Data Required
+
+Data on cars with different types of automatic transmission engines is required to run the test.
+
+In a perfect example, other factors that might impact fuel efficiency should be ignored. This is however not the case as in real life we don’t have ideal conditions and assuming that would be wrong, multiple statistical tests would be required to find the "sweet spot" that determines which type of transmission delivers the best fuel efficiency, factors such as ground clearance and drive type etc.
