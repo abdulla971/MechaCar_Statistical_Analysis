@@ -102,21 +102,21 @@ A statistical study to compare performance of the MechaCar vehicles against perf
 
 ### Study Design: MechaCar vs Competition
 
-Metric to Measure
+### Metric to Measure
 
 Thinking with a consumer mindset, the city and highway fuel efficiency is of high interest. The companies in competition are pushing to bring diesel like fuel efficiency to gasoline engines. To have a chance MechaCar is going to have to join in the competition to improve the fuel efficiency. To determine how MechaCar performs against competition, we can determine if a correlation exists between the type of automatic transmission and fuel efficiency. 
 
-Hypothesis
+### Hypothesis
 
     * Null Hypothesis: The mean of fuel efficiencies for the different types of automatic transmission is the same across all types. 
 
     * Alternative Hypothesis: The mean of fuel efficiencies for the different types of automatic transmission is not the same across all types. 
 
-Statistical Test
+### Statistical Test
 
 A one-way ANOVA is used to test the means of a single continuous dependent variable across a single independent variable with multiple groups, similar to categorical data. In this analysis our independent variable is the type of automatic transmission, which is categorical data type and our dependent variable is fuel efficiency, which is a numerical and continuous data type.
 
-Data Required
+### Data Required
 
 Data on cars with different types of automatic transmission engines is required to run the test.
 
