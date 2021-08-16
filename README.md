@@ -63,3 +63,20 @@ After completing this analysis I was able to answer the following question:
 And this is the answer I found:
 
 1. Examining the summary, the current variance is approximately 76.23 PSI which indicates that it does meet the design specification. And, by examining the lot variance, the first two lots pass the design specification with a variance of approximately 1.14 PSI and 10.13 PSI respectfully. However the third lot does not meet the specifications, as an approximately 220.01 PSI variance which exceeds the design specification by more than the double allocated amount. Therefore the team should focus and work with cars from lots 1 and 2, and ignore 3.
+
+## T-Tests on Suspension Coils
+
+
+I examined if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 PSI. To do this R's t.test() function were used to find four different p-values.
+
+I did this to answer the following question:
+
+1. Do any of the four groups have a statistically different mean from the population mena of 1,500 PSI?
+
+
+The answer I found:
+
+1. Using 95% significance level, which means that 95% of the time this tests results would be true, after running the tests to check if there is a statistical difference from the mean of 1,500 PSI all four p-values where much greater than .05 which means I would reject that there is a statistical difference between the four groups and the population mean.
+
+
+Here is a breakdown of each of the four tests:
