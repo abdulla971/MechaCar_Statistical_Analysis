@@ -11,3 +11,5 @@ The purpose of this project is to:
 ## Analysis
 Data Source: 
 * [MechaCar MPG Data Set](Resources/MechaCar_mpg.csv)
+* [MechaCar Suspension Coil Data Set](Resources/Suspension_Coil.csv)
+
