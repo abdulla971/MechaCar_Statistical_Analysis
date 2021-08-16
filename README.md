@@ -47,3 +47,19 @@ Here are the summary results from the linear regression.
 
 After loading the suspension coils dataset; the data was comprised of 150 different vehicles ID, 3 different lot numbers, and corresponding PSI levels for each vehicle. I created two summary tables to determine the mean, median, variance, and standard deviation of the data. The first table was the general data, while the second table covered the specific three lots. These are the two tables:
 
+### Total Summary Table
+
+![total_sum_sus_coils](https://github.com/Wall-E28/mecha_car_statistical_analysis/blob/main/visualizations/total_sum_sus_coils.png)
+
+### Lot Summary Table
+
+![lot_sum_sus_coils](https://github.com/Wall-E28/mecha_car_statistical_analysis/blob/main/visualizations/lot_sum_sus_coils.png)
+
+
+After completing this analysis I was able to answer the following question:
+
+1. The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+
+And this is the answer I found:
+
+1. Examining the summary, the current variance is approximately 76.23 PSI which indicates that it does meet the design specification. And, by examining the lot variance, the first two lots pass the design specification with a variance of approximately 1.14 PSI and 10.13 PSI respectfully. However the third lot does not meet the specifications, as an approximately 220.01 PSI variance which exceeds the design specification by more than the double allocated amount. Therefore the team should focus and work with cars from lots 1 and 2, and ignore 3.
