@@ -19,3 +19,11 @@ Software used: R, R dplyr library, RStudio
 Analysis Code: [MechaCar Challenge](MechaCarChallenge.R)
 
 ## Results
+
+## Using linear Regression to Predict the MPG
+
+After loading the miles per gallon dataset, multiple linear regression linear regression operations were performed to check if it could predict the miles per gallon (mpg) dependent variable by using the vehicle length, vehicle weight, spoiler angle, ground clearance, and all wheel drive (AWD) independent variables. This was done to find the answers to the following questions:
+
+1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+2. Is the slope of the linear model considered to be zero? Why or why not?
+3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
