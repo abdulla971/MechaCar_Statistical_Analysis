@@ -13,3 +13,4 @@ Data Source:
 * [MechaCar MPG Data Set](Resources/MechaCar_mpg.csv)
 * [MechaCar Suspension Coil Data Set](Resources/Suspension_Coil.csv)
 
+Software used: R, R dplyr library, RStudio
