@@ -112,3 +112,7 @@ Hypothesis
 
     * Alternative Hypothesis: The mean of fuel efficiencies for the different types of automatic transmission is not the same across all types. 
 
+Statistical Test
+
+A one-way ANOVA is used to test the means of a single continuous dependent variable across a single independent variable with multiple groups, similar to categorical data. In this analysis our independent variable is the type of automatic transmission, which is categorical data type and our dependent variable is fuel efficiency, which is a numerical and continuous data type.
+
