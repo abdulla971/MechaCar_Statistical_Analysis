@@ -80,3 +80,20 @@ The answer I found:
 
 
 Here is a breakdown of each of the four tests:
+
+### All Three Lots Combined Test
+
+![total_pop_test](https://github.com/Wall-E28/mecha_car_statistical_analysis/blob/main/visualizations/total_pop_test.png)
+
+### Lot 1 Test
+
+![1_pop_test](https://github.com/Wall-E28/mecha_car_statistical_analysis/blob/main/visualizations/1_pop_test.png)
+
+### Lot 2 Test
+
+![2_pop_test](https://github.com/Wall-E28/mecha_car_statistical_analysis/blob/main/visualizations/2_pop_test.png)
+
+### Lot 3 Test
+
+![3_pop_test](https://github.com/Wall-E28/mecha_car_statistical_analysis/blob/main/visualizations/3_pop_test.png)
+
