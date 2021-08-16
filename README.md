@@ -97,3 +97,7 @@ Here is a breakdown of each of the four tests:
 
 ![3_pop_test](https://github.com/Wall-E28/mecha_car_statistical_analysis/blob/main/visualizations/3_pop_test.png)
 
+## Summary
+A statistical study to compare performance of the MechaCar vehicles against performance of vehicles from other manufacturers.
+
+### Study Design: MechaCar vs Competition
